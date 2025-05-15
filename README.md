@@ -60,22 +60,8 @@ Todas as rotas da API seguem o padrão:
 /api/{nome-da-entidade}
 ```
 
-Exemplos:
-- `/api/obras`
-- `/api/funcionarios`
-- `/api/presencas`
-- `/api/empreitadas`
-- `/api/receitas`
-- `/api/despesas`
-- `/api/pagamentos`
-- `/api/relatorios`
-
 Para mais informações e testes dos endpoints, acesse a documentação gerada automaticamente pelo Swagger:
 
 📌 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
